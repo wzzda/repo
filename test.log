@@ -1,0 +1,406 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.16)  17 JUL 2024 13:47
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/study/test/test.tex
+(d:/study/test/test.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+(c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (c:/texlive/2024/texmf-dist/tex/latex/musixtex/musixtex.sty (c:/texlive/2024/texmf-dist/tex/generic/musixtex/musixtex.tex
+MusiXTeX(c) 1.38 <2024-03-29>
+\n@i=\count268
+\n@ii=\count269
+\n@iii=\count270
+\n@iv=\count271
+\n@v=\count272
+\n@vi=\count273
+\n@vii=\count274
+\n@viii=\count275
+\count@=\count276
+\toks@box=\box52
+\w@rkbox=\box53
+\n@otebox=\box54
+\y@=\dimen142
+\y@i=\dimen143
+\y@ii=\dimen144
+\y@iii=\dimen145
+\y@iv=\dimen146
+\y@v=\dimen147
+\group@no=\count277
+\interinstrument=\dimen148
+\N@s=\count278
+\s@Y=\dimen149
+\lin@pos=\dimen150
+\meet@minus@n@iv=\count279
+\interbeam=\dimen151
+\b@amthick=\dimen152
+\Interligne=\dimen153
+\Internote=\dimen154
+\ch@box=\box55
+\musicsize=\count280
+\qd@skip=\dimen155
+\qn@width=\dimen156
+\wn@width=\dimen157
+\txt@ff=\skip51
+\s@indent=\skip52
+\big@spc=\skip53
+\lthick=\dimen158
+\afterruleskip=\skip54
+\staffbotmarg=\dimen159
+\stafftopmarg=\dimen160
+\line@width=\dimen161
+\interportee=\dimen162
+\noport@@=\count281
+\noinstrum@nt=\count282
+\altportee=\dimen163
+\systemheight=\dimen164
+\altplancher=\dimen165
+\instrum@in@group=\skip55
+\boxitsep=\skip56
+\barsinpi@c@=\count283
+\barno=\count284
+\startbarno=\count285
+\sign@skip=\dimen166
+\maxsign@skip=\dimen167
+\x@skip=\dimen168
+\n@skip=\dimen169
+\beforeruleskip=\skip57
+\widthtyp@=\count286
+\lastbarno=\count287
+\cut@v=\skip58
+\init@volta@pos=\skip59
+\volta@startcor=\skip60
+\volta@endcor=\skip61
+\writ@volta@box=\box56
+\barsinlin@=\count288
+\maxbarsinlin@=\count289
+\lastbarpos=\skip62
+\ut@ref=\count290
+\meterskip=\skip63
+\t@c=\toks17
+\clef@skip=\skip64
+\noteskip=\dimen170
+\transpose=\count291
+\normaltranspose=\count292
+\locx@skip=\dimen171
+\elemskip=\dimen172
+\@l@mskip=\dimen173
+\inh@alt=\count293
+\st@bot=\dimen174
+\st@top=\dimen175
+\stem@skip=\dimen176
+\s@lope=\dimen177
+\y@vi=\dimen178
+\lift@rest=\dimen179
+\accshift=\skip65
+\@icresc=\skip66
+\pdl@pos=\dimen180
+\bigwedgebox=\box57
+\@itrillei=\skip67
+\@itrilleii=\skip68
+\@itrilleiii=\skip69
+\@itrilleiv=\skip70
+\@itrillev=\skip71
+\@itrillevi=\skip72
+\tr@number=\count294
+\tr@nspose=\count295
+\o@swz=\toks18
+\o@number=\count296
+\y@vii=\dimen181
+\y@viii=\dimen182
+\y@ix=\dimen183
+\tuptxtb@x=\box58
+\notes@open=\count297
+\k@ii=\skip73
+\i@ni=\dimen184
+\b@xi=\dimen185
+\b@zi=\dimen186
+\c@xi=\dimen187
+\c@zi=\skip74
+\d@xi=\dimen188
+\d@zi=\skip75
+\e@xi=\dimen189
+\e@zi=\skip76
+\b@pi=\count298
+\b@ni=\count299
+\n@pi=\count300
+\a@si=\count301
+\o@si=\count302
+\a@ci=\toks19
+\o@ci=\toks20
+\m@ti=\toks21
+\k@iii=\skip77
+\i@nii=\dimen190
+\b@xii=\dimen191
+\b@zii=\dimen192
+\c@xii=\dimen193
+\c@zii=\skip78
+\d@xii=\dimen194
+\d@zii=\skip79
+\e@xii=\dimen195
+\e@zii=\skip80
+\b@pii=\count303
+\b@nii=\count304
+\n@pii=\count305
+\a@sii=\count306
+\o@sii=\count307
+\a@cii=\toks22
+\o@cii=\toks23
+\m@tii=\toks24
+\k@iiii=\skip81
+\i@niii=\dimen196
+\b@xiii=\dimen197
+\b@ziii=\dimen198
+\c@xiii=\dimen199
+\c@ziii=\skip82
+\d@xiii=\dimen256
+\d@ziii=\skip83
+\e@xiii=\dimen257
+\e@ziii=\skip84
+\b@piii=\count308
+\b@niii=\count309
+\n@piii=\count310
+\a@siii=\count311
+\o@siii=\count312
+\a@ciii=\toks25
+\o@ciii=\toks26
+\m@tiii=\toks27
+\k@iiv=\skip85
+\i@niv=\dimen258
+\b@xiv=\dimen259
+\b@ziv=\dimen260
+\c@xiv=\dimen261
+\c@ziv=\skip86
+\d@xiv=\dimen262
+\d@ziv=\skip87
+\e@xiv=\dimen263
+\e@ziv=\skip88
+\b@piv=\count313
+\b@niv=\count314
+\n@piv=\count315
+\a@siv=\count316
+\o@siv=\count317
+\a@civ=\toks28
+\o@civ=\toks29
+\m@tiv=\toks30
+\k@iv=\skip89
+\i@nv=\dimen264
+\b@xv=\dimen265
+\b@zv=\dimen266
+\c@xv=\dimen267
+\c@zv=\skip90
+\d@xv=\dimen268
+\d@zv=\skip91
+\e@xv=\dimen269
+\e@zv=\skip92
+\b@pv=\count318
+\b@nv=\count319
+\n@pv=\count320
+\a@sv=\count321
+\o@sv=\count322
+\a@cv=\toks31
+\o@cv=\toks32
+\m@tv=\toks33
+\k@ivi=\skip93
+\i@nvi=\dimen270
+\b@xvi=\dimen271
+\b@zvi=\dimen272
+\c@xvi=\dimen273
+\c@zvi=\skip94
+\d@xvi=\dimen274
+\d@zvi=\skip95
+\e@xvi=\dimen275
+\e@zvi=\skip96
+\b@pvi=\count323
+\b@nvi=\count324
+\n@pvi=\count325
+\a@svi=\count326
+\o@svi=\count327
+\a@cvi=\toks34
+\o@cvi=\toks35
+\m@tvi=\toks36
+maxinstruments=6
+\f@xi=\dimen276
+\f@zi=\skip97
+\f@xii=\dimen277
+\f@zii=\skip98
+\f@xiii=\dimen278
+\f@ziii=\skip99
+\f@xiv=\dimen279
+\f@ziv=\skip100
+\f@xv=\dimen280
+\f@zv=\skip101
+\f@xvi=\dimen281
+\f@zvi=\skip102
+ max128beams=6
+\g@bi=\skip103
+\g@hi=\skip104
+\g@bii=\skip105
+\g@hii=\skip106
+\g@biii=\skip107
+\g@hiii=\skip108
+ maxgroups=3
+\s@xi=\dimen282
+\s@si=\toks37
+\s@Yi=\dimen283
+\s@ai=\skip109
+\s@yi=\count328
+\s@Ni=\count329
+\s@zi=\count330
+\s@di=\toks38
+\s@xii=\dimen284
+\s@sii=\toks39
+\s@Yii=\dimen285
+\s@aii=\skip110
+\s@yii=\count331
+\s@Nii=\count332
+\s@zii=\count333
+\s@dii=\toks40
+\s@xiii=\dimen286
+\s@siii=\toks41
+\s@Yiii=\dimen287
+\s@aiii=\skip111
+\s@yiii=\count334
+\s@Niii=\count335
+\s@ziii=\count336
+\s@diii=\toks42
+\s@xiv=\dimen288
+\s@siv=\toks43
+\s@Yiv=\dimen289
+\s@aiv=\skip112
+\s@yiv=\count337
+\s@Niv=\count338
+\s@ziv=\count339
+\s@div=\toks44
+\s@xv=\dimen290
+\s@sv=\toks45
+\s@Yv=\dimen291
+\s@av=\skip113
+\s@yv=\count340
+\s@Nv=\count341
+\s@zv=\count342
+\s@dv=\toks46
+\s@xvi=\dimen292
+\s@svi=\toks47
+\s@Yvi=\dimen293
+\s@avi=\skip114
+\s@yvi=\count343
+\s@Nvi=\count344
+\s@zvi=\count345
+\s@dvi=\toks48
+ maxslurs=6
+\tr@xi=\skip115
+\tr@swi=\toks49
+\tr@yi=\skip116
+\tr@xii=\skip117
+\tr@swii=\toks50
+\tr@yii=\skip118
+\tr@xiii=\skip119
+\tr@swiii=\toks51
+\tr@yiii=\skip120
+\tr@xiv=\skip121
+\tr@swiv=\toks52
+\tr@yiv=\skip122
+\tr@xv=\skip123
+\tr@swv=\toks53
+\tr@yv=\skip124
+\tr@xvi=\skip125
+\tr@swvi=\toks54
+\tr@yvi=\skip126
+ maxtrills=6
+\o@xi=\skip127
+\o@yi=\skip128
+\o@swi=\toks55
+\o@xii=\skip129
+\o@yii=\skip130
+\o@swii=\toks56
+\o@xiii=\skip131
+\o@yiii=\skip132
+\o@swiii=\toks57
+\o@xiv=\skip133
+\o@yiv=\skip134
+\o@swiv=\toks58
+\o@xv=\skip135
+\o@yv=\skip136
+\o@swv=\toks59
+\o@xvi=\skip137
+\o@yvi=\skip138
+\o@swvi=\toks60
+ maxoctlines=6
+\outmux=\write3
+\mulooseness=\count346
+\linegoal=\count347
+\l@eftrightbox=\box59
+\stringraise=\count348
+\stringnum=\count349
+\nslashes=\count350
+\tiny@hgt=\count351
+\inmux=\read2
+) (c:/texlive/2024/texmf-dist/tex/latex/musixtex/musixltx.tex
+MusiXLaTeX T.125 <8 April 2017>
+)) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count352
+\l__pdf_internal_box=\box60
+) (./test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+\openout3 = `test.mx1'.
+
+
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2498 strings out of 473584
+ 24011 string characters out of 5732363
+ 1926908 words of memory out of 5000000
+ 25374 multiletter control sequences out of 15000+600000
+ 632181 words of font info for 182 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,5n,50p,256b,109s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (1 page, 11438 bytes).
+PDF statistics:
+ 13 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
